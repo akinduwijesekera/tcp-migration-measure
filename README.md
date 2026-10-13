@@ -5,8 +5,7 @@ This is the application-side half of my UCL 3rd year project,
 continuity during application-level live migration (Docker + CRIU
 checkpoint/restore). **This repo is incomplete**: the original project
 also evaluated hypervisor-level migration using VMware snapshots, which
-isn't included here. The original project's code was lost, so this is a
-fresh, self-contained reimplementation rather than the recovered original.
+isn't included here. This is a self-contained reimplementation of that application-side approach.
 
 ## What it measures
 
